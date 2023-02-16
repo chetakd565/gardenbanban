@@ -230,26 +230,26 @@
     
     "games" : [
         {
-            "name" : "CHAPTER 3",
-            "ico" : "https://i.pinimg.com/originals/6c/3b/76/6c3b76c8222fadb870334215638ddd18.jpg",
+            "name" : "BANBAN 3",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/1a.jpg",
             "link" : "https://yandex.com/games/app/192490?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192490&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Overall",
             "orientation" : "0"
         },{
-            "name" : "CHAPTER 2",
-            "ico" : "https://i.pinimg.com/564x/3d/2a/03/3d2a03b6d015896b237804df73e641e5.jpg",
+            "name" : "BANBAN 2",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/2a.jpg",
             "link" : "https://yandex.com/games/app/192536?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192536&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
-            "name" : "CHAPTER 1",
-            "ico" : "https://i.pinimg.com/564x/bc/6d/dc/bc6ddca32a7ba5f4e0de414d0824457a.jpg",
+            "name" : "BANBAN 1",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/3a.png",
             "link" : "https://www.y8.com/games/it_s_playtime_they_are_coming/mobile",
             "cat" : "Soccer",
             "orientation" : "1"
         },{
-            "name" : "CHAPTER 0",
-            "ico" : "https://i.pinimg.com/564x/85/d0/72/85d0726cc2b7d4f60243231915790edc.jpg",
+            "name" : "BANBAN 0",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/4a.png",
             "link" : "https://www.agame.com/game/poppy-huggie-escape",
             "cat" : "Arcade",
             "orientation" : "0"
@@ -259,11 +259,11 @@
     
     "scratch" : [
         {
-            "img" : "https://i.quotev.com/nmk7j5mjtdla.jpg"
+            "img" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/5a.png"
         },{
-            "img" : "https://i.quotev.com/enuv4jhvydrq.jpg"
+            "img" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/6a.png"
         },{
-            "img" : "https://i.quotev.com/tl2gy3ok3zwa.jpg"
+            "img" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/7a.jpg"
         },{
             "img" : "https://i.quotev.com/yq67tsyngxxa.jpg"
         },{
@@ -274,7 +274,7 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://i.quotev.com/ni63wy6edkva.jpg"
+            "img" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/7a.jpg"
         },
         {
             "name" : "",
