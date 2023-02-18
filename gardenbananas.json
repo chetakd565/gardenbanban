@@ -153,7 +153,7 @@
             "ico" : "",
             "bg" : "#FB923C"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "puzzle",
             "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/1.png",
             "bg" : "#FBBF24"
@@ -168,7 +168,7 @@
             "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/3.png",
             "bg" : "#38BDF8"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/4.png",
             "bg" : "#2DD4BF"
@@ -178,7 +178,7 @@
             "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/5.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/6.png",
             "bg" : "#2196F3"
