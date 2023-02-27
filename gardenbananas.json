@@ -148,7 +148,7 @@
     
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -318,18 +318,18 @@
         {
             "url" : "",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "J.Biebs",
-            "img1" : "https://i.quotev.com/nmk7j5mjtdla.jpg",
-            "img2" : "https://i.quotev.com/g5qasdlb3ddq.jpg",
+            "name" : "Banban",
+            "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/2232840/extras/Josh.gif",
+            "img2" : "https://pdacdn.com/app/63de44176d079/screen-7.jpg",
             "part1" : "Create your own magical garden in Garten of Banban!",
             "part2" : "Create a beautiful garden oasis in Garten of Banban! Explore magical lands, meet new friends, and discover hidden treasures in this enchanting game."
         },
         {
             "url" : "",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Homer",
-            "img1" : "https://i.quotev.com/6b735o2xigca.jpg",
-            "img2" : "https://i.quotev.com/tl2gy3ok3zwa.jpg",
+            "name" : "Garten",
+            "img1" : "https://pdacdn.com/app/63de44176d079/screen-8.jpg",
+            "img2" : "https://cdn.cloudflare.steamstatic.com/steam/apps/2232840/extras/Kindergarten.gif",
             "part1" : "Embark on an adventure with Banban and friends!",
             "part2" : "Embark on an adventure with Banban and his friends! Solve puzzles, collect rare items, and uncover the secrets of this mystical world."
         },
@@ -338,8 +338,8 @@
             "url" : "",
             "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
             "name" : "Kenta",
-            "img1" : "https://i.quotev.com/enuv4jhvydrq.jpg",
-            "img2" : "https://i.quotev.com/nmk7j5mjtdla.jpg",
+            "img1" : "https://cdn.cloudflare.steamstatic.com/steam/apps/2262770/extras/Teaser.gif?t=1677449246",
+            "img2" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/5a.png",
             "part1" : "Get lost in the beauty of Garten of Banban's world!",
             "part2" : "Get lost in the beauty of Garten of Banban! Plant, grow, and harvest a variety of exotic flowers and plants in your own magical garden."
         },
@@ -347,7 +347,7 @@
             "url" : "",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Nairi",
-            "img1" : "https://i.quotev.com/qn4k3m4vgr5a.jpg",
+            "img1" : "https://raw.githubusercontent.com/chetakd565/gardenbanban/main/6a.png",
             "img2" : "https://i.quotev.com/yq67tsyngxxa.jpg",
             "part1" : "Join the fun in Garten of Banban's whimsical world!",
             "part2" : "Join the fun in Garten of Banban! Interact with unique creatures, trade with other players, and become a master gardener in this whimsical world."
